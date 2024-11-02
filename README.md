@@ -29,6 +29,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajain2004&show_icons=true&locale=en&layout=compact" alt="ananyajain2004" /></p>
 
+[![An image of @ananyajain2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ananyajain2004)](https://holopin.io/@ananyajain2004)
+
 <!---
 Ananyajain2004/Ananyajain2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
