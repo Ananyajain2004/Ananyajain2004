@@ -1,6 +1,6 @@
 <img width="100%" align="center" src="https://repository-images.githubusercontent.com/424438600/28fd8c99-f3a7-47d7-8e1b-f82af187b36a" alt="cover image"/>
 <h1 align="center">Hi 👋, I'm Ananya Jain</h1>
-<h3 align="center">A passionate frontend developer and competitive programmer from India</h3> 
+<h3 align="center">A passionate MERN stack developer and competitive programmer from India</h3> 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="coding"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyajain2004&label=Profile%20views&color=0e75b6&style=flat" alt="ananyajain2004" /> </p>
 
